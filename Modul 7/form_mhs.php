@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>View</title>
+	<title>Form Mahasiswa</title>
 </head>
 <body>
 <?php 
 
-require 'tambah.php';
-require 'hapus.php';
+require_once ('fungsi.php');
+
 
 $conn = mysqli_connect("localhost","root","","mahasiswa") or die("koneksi ke database gagal");
 
