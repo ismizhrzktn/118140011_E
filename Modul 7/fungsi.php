@@ -15,7 +15,7 @@
 
 			$id_tel = "1";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_tel')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
 			mysqli_query($conn, $query);
 
@@ -27,7 +27,7 @@
 
 			$id_elka = "2";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_elka')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
 			mysqli_query($conn, $query);
 
@@ -39,7 +39,7 @@
 
 			$id_it = "3";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_it')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
 			mysqli_query($conn, $query);
 
@@ -51,7 +51,7 @@
 
 			$id_eli = "4";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_eli')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$$id_jur')";
 
 			mysqli_query($conn, $query);
 
@@ -63,7 +63,7 @@
 
 			$id_eli = "5";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_eli')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$$id_jur')";
 
 			mysqli_query($conn, $query);
 
