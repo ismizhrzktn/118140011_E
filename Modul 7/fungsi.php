@@ -13,7 +13,7 @@
 
 		if ($data["jurusan"] == "Teknik Informatika") {
 
-			$id_tel = "1";
+			$id_jur = "1";
 
 			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
@@ -25,7 +25,7 @@
 
 		else if ($data["jurusan"] == "Teknik Sipil") {
 
-			$id_elka = "2";
+			$id_jur = "2";
 
 			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
@@ -37,7 +37,7 @@
 
 		else if ($data["jurusan"] == "Teknik Mesin") {
 
-			$id_it = "3";
+			$id_jur = "3";
 
 			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
@@ -49,9 +49,9 @@
 
 		else if ($data["jurusan"] == "Arsitektur") {
 
-			$id_eli = "4";
+			$id_jur = "4";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$$id_jur')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
 			mysqli_query($conn, $query);
 
@@ -61,9 +61,9 @@
         
 		else if ($data["jurusan"] == "Farmasi") {
 
-			$id_eli = "5";
+			$id_jur = "5";
 
-			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$$id_jur')";
+			$query = "INSERT INTO mahasiswa VALUES ('$nrp','$nama','$foto','$id_jur')";
 
 			mysqli_query($conn, $query);
 
