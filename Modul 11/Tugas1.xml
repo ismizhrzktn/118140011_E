@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Ismi Z</awal>
+        <akhir>Rezkatiana</akhir>
+    </nama>
+
+    <saudara>
+        <adik> Ryan </adik>
+        <adik> Hany </adik>
+    </saudara>
+
+    <orangtua>
+        <ibu> Niar </ibu>
+        <ayah> Hari </ayah>
+    </orangtua>
+
+    <hobi>
+        <activity>Nonton </activity>
+        <activity>Baca Webtoon</activity>
+        <activity>Fangirling EXO</activity>
+        <activity>Tidur</activity>
+    </hobi>
+
+    <alamat>
+        <jalan> Jl. Penegak </jalan>
+        <kota> Jakarta </kota>
+    </alamat>
+
+    <sosmed>
+        <github>ismizhrzktn</github>
+        <instagram>ismizhrzktn</instagram>
+    </sosmed>
+
+    <makananFav>
+        <food>Tempe Goreng</food>
+        <food>Bakso</food>
+        <food>Nasi goreng</food>
+    </makananFav>
+</dataDiri>

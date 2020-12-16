@@ -1,0 +1,20 @@
+{
+    "nama" : "Ismi Z Rezkatiana",
+    "Saudara": ["Ryan", "Hany"],
+    "OrangTua" : {
+        "ibu":"Niar",
+        "ayah":"Hari"
+    },
+    "hobi": ["Nonton", "Baca Webtoon", "Fangirling EXO", "Tidur"],
+    "alamat" :{
+        "jalan":"Jl. Penegak",
+        "kota":"Jakarta"
+    },
+    "sosmed":{
+        "github": "ismizhrzktn",
+        "instagram":"ismizhrzktn"
+    },
+    "makananFav":["Tempe Goreng", "Bakso", "Nasi Goreng"]
+
+
+}
